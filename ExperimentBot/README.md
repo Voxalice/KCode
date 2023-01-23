@@ -11,6 +11,10 @@ Says hello to you!
 Says a random username.
 ### .help
 Links back here.
+### .joke
+Tells a random joke.
+### .stats
+Tells you how many messages there are in the chat.
 ## Coin Commands
 
 ### .coin
